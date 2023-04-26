@@ -1,0 +1,12 @@
+Flask==2.2.2
+pandas==1.5.3
+numpy==1.21.5
+requests==2.24.0
+pickle4
+gunicorn
+scikit-learn==1.2.2
+FastAPI
+uvicorn
+BaseModel
+joblib
+
